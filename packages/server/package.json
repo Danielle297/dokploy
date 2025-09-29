@@ -39,7 +39,7 @@
     "bl": "6.0.11",
     "boxen": "^7.1.1",
     "date-fns": "3.6.0",
-    "dockerode": "4.0.2",
+    "dockerode": "4.0.5",
     "dotenv": "16.4.5",
     "drizzle-orm": "^0.30.8",
     "drizzle-zod": "0.5.1",
