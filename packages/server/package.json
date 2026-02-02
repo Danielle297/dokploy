@@ -35,7 +35,7 @@
     "@react-email/components": "^0.0.21",
     "@trpc/server": "^10.43.6",
     "adm-zip": "^0.5.14",
-    "bcrypt": "5.1.1",
+    "bcrypt": "6.0.0",
     "bl": "6.0.11",
     "boxen": "^7.1.1",
     "date-fns": "3.6.0",
