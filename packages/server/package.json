@@ -32,7 +32,7 @@
     "@faker-js/faker": "^8.4.1",
     "@lucia-auth/adapter-drizzle": "1.0.7",
     "@octokit/auth-app": "^6.0.4",
-    "@react-email/components": "^0.0.21",
+    "@react-email/components": "^0.0.29",
     "@trpc/server": "^10.43.6",
     "adm-zip": "^0.5.14",
     "bcrypt": "5.1.1",
